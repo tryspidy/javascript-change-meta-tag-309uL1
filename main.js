@@ -1,0 +1,1 @@
+document.querySelector('meta[name="description"]').setAttribute("content", _desc);
